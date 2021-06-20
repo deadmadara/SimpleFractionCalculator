@@ -1,2 +1,2 @@
 # SimpleFractionCalculator
-Simple fraction calculator (C#, WF)
+Simple fraction calculator (C#, WF). Use SimpleFractionCalculator.exe
